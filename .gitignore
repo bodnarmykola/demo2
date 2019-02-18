@@ -1,0 +1,5 @@
+keys.sh
+*.tfstate*
+.terraform/*
+*.bak
+tmp/*
